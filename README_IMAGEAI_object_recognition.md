@@ -1,5 +1,5 @@
-In this project we are going to do object recognition in image. here we are passing a image path in coding. 
-Script will detect all the objects in the image it will saved as "imagenew.jepg" in projectfolder and extracted images willbe stored in extractedimages folder.
+In this project we are going to do object recognition in image. here we are passing an image path in coding. 
+Script will detect all the objects in the image it will be saved as "imagenew.jepg" in projectfolder and extracted images willbe stored in extractedimages folder.
 Object position in image will be printed in console.
 
 Please follow the below steps
